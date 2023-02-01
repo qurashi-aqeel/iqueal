@@ -14,8 +14,9 @@ Python | HTML | JS
 
 ### My Digital Garden 🌱
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqueal&show_icons=true&theme=dark&count_private=true">
-
-![Visitor Count](https://profile-counter.glitch.me/%7Biqueal%7D/count.svg)
+<a href="https://iqueal.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqueal&show_icons=true&theme=dark&count_private=true">
+  ![Visitor Count](https://profile-counter.glitch.me/%7Biqueal%7D/count.svg)
+</a>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
