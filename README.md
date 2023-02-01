@@ -19,6 +19,7 @@ Python | HTML | JS
 </a>
 
 <br>
+
 ![Visitor Count](https://profile-counter.glitch.me/%7Biqueal%7D/count.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
